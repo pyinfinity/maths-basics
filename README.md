@@ -1,1 +1,1 @@
-# sum-of-n-numbers
+# sum-of-n-consecutive-numbers
